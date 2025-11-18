@@ -1,10 +1,13 @@
-# Dithering Studio - UXP Plugin for Adobe Photoshop
+# 🎨 Photoshop Live Ditherer
 
-Real-time dithering plugin with two-slider preview system, comprehensive algorithm selection, and color palette customization.
+A real-time dithering plugin for Adobe Photoshop using UXP (Unified Extensibility Platform). Apply professional Floyd-Steinberg error diffusion dithering with live preview and interactive controls.
 
-## Features
+![Version](https://img.shields.io/badge/version-9034-blue)
+![Photoshop](https://img.shields.io/badge/Photoshop-27.0.0%2B-31A8FF)
+![React](https://img.shields.io/badge/React-18-61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6)
 
-- ✅ **Two-Slider Preview System**
+## ✨ Features
   - Processing Scale (5-50%) - Controls dithering resolution
   - Display Zoom (50-200%) - Controls canvas zoom
   - Color-coded borders: Green (pixel-perfect), Red (downscaled), Blue (upscaled)
